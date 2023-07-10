@@ -64,7 +64,7 @@ export default function Home() {
                 <p className='text-[18px]'> <strong className='text-Darkgrayblue opacity-100'>72</strong> <span className='opacity-[0.4] font-bold'>/ 100</span></p>
             </div>
           </div>
-          <button className='w-full bg-Darkgrayblue rounded-[100px] h-10 text-Paleblue font-bold text-[16px] text-center mt-5 hover:scale-105 transition-all '>Continue</button>
+          <a href="/card"><button className='w-full bg-Darkgrayblue rounded-[100px] h-10 text-Paleblue font-bold text-[16px] text-center mt-5 hover:scale-105 transition-all '>Continue</button></a>
         </div>
       </div>
     </div>
